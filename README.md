@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandra9438Z&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!--
 **Sandra9438Z/Sandra9438Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
